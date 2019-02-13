@@ -16,7 +16,7 @@ Maka nanti akan muncul seperti ini.
 
 ![4](https://user-images.githubusercontent.com/46509513/52534303-7e4ce100-2d72-11e9-9901-ca4ad7a46e0a.png)
 
-4. Jika sudah RUN maka akan muncul sepeti ini. 
+4. Jika sudah RUN. Inputkan 3 buah bilangan, di proses akhir nanti akan diberitahu mana bilangan yang paling terbesar diantara ke-3 bilangan tersebut
 
 ![2](https://user-images.githubusercontent.com/46509513/52534314-a5a3ae00-2d72-11e9-90cd-5e102463eae7.png)
 
